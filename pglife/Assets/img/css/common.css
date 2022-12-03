@@ -1,0 +1,68 @@
+html,body {
+    overflow-x: hidden;
+}
+body {
+    position: relative;
+}
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hover-link {
+    color: #4dc7bc;
+}
+.hover-link:hover {
+    color: #4dc7bc;
+    text-decoration: underline !important;
+}
+
+.btn-color {
+    background-color: #4dc7bc !important;
+    border-color: #4dc7bc !important;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #aee6e1;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(77 199 188 / 25%);
+}
+
+.navbar {
+    font-size: 13px;
+}
+.nav-vl {
+    border-left: 2px solid #d6d6d678;
+    height: 24px;
+    margin: auto 16px;
+    display: block;
+}
+
+.breadcrumb {
+    background-color: #e5e3e8;
+}
+.breadcrumb-fs {
+    font-size: 13px;
+}
+.profile-img {
+    font-size: 60px;
+}
+.bg-intereste-color {
+    background-color: #fcfaf7;
+}
+
+.fs-small {
+    font-size: 8px;
+    letter-spacing: 1px;
+}
+.fs-smallrent-permonth {
+    font-size: 13px;
+}
+.btn-view {
+    width: 120px;
+    border-radius: 0px;
+}
+
+

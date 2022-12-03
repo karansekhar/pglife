@@ -1,0 +1,23 @@
+.carousel{
+    position: relative;
+    top: -16px;
+}
+.height-300 {
+    height: 300px;
+}
+.object-fit-cover {
+    object-fit: cover;
+}
+.tm-img-realative {
+    position: relative;
+    top: -40px;
+}
+.rating-circle-star-container {
+    background-color: #66C2BD !important;
+}
+.rating-star-icon {
+    color: #66C2BD;
+}
+.bg-proerty-rating {
+    background-color: #fcfaf7;
+}
